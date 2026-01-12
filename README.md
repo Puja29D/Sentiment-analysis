@@ -1,4 +1,5 @@
 *Sentiment Analysis*
+
 This project focuses on performing Sentiment Analysis on text data using Natural Language Processing (NLP) and Machine Learning techniques.
 The goal was to clean the text, convert it into numerical features, train a classification model, and visualize key patterns in the data.
 Project Overview
